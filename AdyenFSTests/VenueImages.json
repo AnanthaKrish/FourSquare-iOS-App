@@ -1,0 +1,32 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5d6e48e8f96b2c002c9b11bc"
+    },
+    "response": {
+        "photos": {
+            "count": 26,
+            "items": [
+                {
+                    "id": "5a80197ff193c0461fc999d1",
+                    "createdAt": 1518344575,
+                    "prefix": "https://fastly.4sqi.net/img/general/",
+                    "suffix": "/16492128_tb4C0LBe2KUttrwyIkPvyZLpN9ub7Dz9NGJrWbzKvOs.jpg",
+                    "width": 1440,
+                    "height": 1920,
+                    "user": {
+                        "id": "16492128",
+                        "firstName": "Vivek",
+                        "lastName": "Shah",
+                        "gender": "male",
+                        "photo": {
+                            "prefix": "https://fastly.4sqi.net/img/user/",
+                            "suffix": "/16492128-RME4GNWBQ0DZVOR5.jpg"
+                        }
+                    },
+                    "visibility": "public"
+                }
+            ]
+        }
+    }
+}

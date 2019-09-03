@@ -1,0 +1,272 @@
+
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5d6e4247787dba003816608b"
+    },
+    "response": {
+        "warning": {
+            "text": "There aren't a lot of results near you. Try something more general, reset your filters, or expand the search area."
+        },
+        "suggestedRadius": 3375,
+        "headerLocation": "Koramangala",
+        "headerFullLocation": "Koramangala, Bangalore",
+        "headerLocationGranularity": "neighborhood",
+        "query": "arts",
+        "totalResults": 7,
+        "suggestedBounds": {
+            "ne": {
+                "lat": 12.936668109072667,
+                "lng": 77.62926469834677
+            },
+            "sw": {
+                "lat": 12.929755649502596,
+                "lng": 77.61329454607535
+            }
+        },
+        "groups": [
+            {
+                "type": "Recommended Places",
+                "name": "recommended",
+                "items": [
+                    {
+                        "reasons": {
+                            "count": 2,
+                            "items": [
+                                {
+                                    "summary": "Lots of people like this place",
+                                    "type": "general",
+                                    "reasonName": "rawLikesReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "53d0cbeb498e76c1236f8ce9",
+                            "name": "Indigo Live - Music Bar",
+                            "contact": {},
+                            "location": {
+                                "address": "5th Floor, Elite Building, Jyoti Nivas College Road,",
+                                "crossStreet": "Koramangala Industrial Layout",
+                                "lat": 12.932951414399819,
+                                "lng": 77.61402046208768,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 12.932951414399819,
+                                        "lng": 77.61402046208768
+                                    }
+                                ],
+                                "distance": 824,
+                                "postalCode": "560095",
+                                "cc": "IN",
+                                "city": "Bangalore",
+                                "state": "Karnātaka",
+                                "country": "India",
+                                "formattedAddress": [
+                                    "5th Floor, Elite Building, Jyoti Nivas College Road, (Koramangala Industrial Layout)",
+                                    "Bangalore 560095",
+                                    "Karnātaka",
+                                    "India"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e5931735",
+                                    "name": "Music Venue",
+                                    "pluralName": "Music Venues",
+                                    "shortName": "Music Venue",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "91081674"
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-7-53d0cbeb498e76c1236f8ce9-1"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4f752fdb4fc637c1885eede4",
+                            "name": "Furor Entertainment Pvt. Ltd.",
+                            "contact": {},
+                            "location": {
+                                "address": "No. 5, 20th Main Road",
+                                "crossStreet": "2nd Main Road",
+                                "lat": 12.936353906364936,
+                                "lng": 77.61625707149506,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 12.936353906364936,
+                                        "lng": 77.61625707149506
+                                    }
+                                ],
+                                "distance": 375,
+                                "postalCode": "560095",
+                                "cc": "IN",
+                                "city": "Bangalore",
+                                "state": "Karnātaka",
+                                "country": "India",
+                                "formattedAddress": [
+                                    "No. 5, 20th Main Road (2nd Main Road)",
+                                    "Bangalore 560095",
+                                    "Karnātaka",
+                                    "India"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d134941735",
+                                    "name": "Dance Studio",
+                                    "pluralName": "Dance Studios",
+                                    "shortName": "Dance Studio",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_dancestudio_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-7-4f752fdb4fc637c1885eede4-2"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4f35f8cbe4b0d408a2e564e4",
+                            "name": "Harmony (Western Classical Vocal & Music Training)",
+                            "contact": {},
+                            "location": {
+                                "address": "#877, 3rd Block, 7th Cross, Koramangala",
+                                "lat": 12.930069852210327,
+                                "lng": 77.62853878233445,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 12.930069852210327,
+                                        "lng": 77.62853878233445
+                                    }
+                                ],
+                                "distance": 1486,
+                                "postalCode": "560034",
+                                "cc": "IN",
+                                "city": "Bangalore",
+                                "state": "Karnātaka",
+                                "country": "India",
+                                "formattedAddress": [
+                                    "#877, 3rd Block, 7th Cross, Koramangala",
+                                    "Bangalore 560034",
+                                    "Karnātaka",
+                                    "India"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e5931735",
+                                    "name": "Music Venue",
+                                    "pluralName": "Music Venues",
+                                    "shortName": "Music Venue",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "tipCount": 0,
+                                "usersCount": 0,
+                                "checkinsCount": 0,
+                                "visitsCount": 0
+                            },
+                            "beenHere": {
+                                "count": 0,
+                                "lastCheckinExpiredAt": 0,
+                                "marked": false,
+                                "unconfirmedCount": 0
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "Nobody here",
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-7-4f35f8cbe4b0d408a2e564e4-3"
+                    }
+                ]
+            }
+        ]
+    }
+}
