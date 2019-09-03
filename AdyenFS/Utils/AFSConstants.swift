@@ -33,3 +33,10 @@ let HOME_COLLECTION_VIEW_CELL = "HomeCollectionViewCell"
 let OPTIONS_VIEW_CONTROLLER = "OptionsViewController"
 let OPTIONS_COLLECTION_VIEW_CELL = "OptionsCollectionViewCell"
 
+// URLBuilder Constants
+let BASE = "https://api.foursquare.com/"
+let VERSION = "/v2"
+let EXPLORE = "/venues/explore"
+let QUERYVERSION = "20120609"
+let PHOTOS = "/photos"
+let VENUES = "/venues/"

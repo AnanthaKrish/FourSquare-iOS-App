@@ -19,13 +19,13 @@ extension UIImageView {
     public func image(fromURL url:URL,completionHandler:@escaping ((_ succes:Bool?, _ error:Error?)->Void)) {
         
         DispatchQueue.main.async {
+            
             let activityIndicator = UIActivityIndicatorView(style: .gray)
             activityIndicator.frame = CGRect.init(x: 0, y: 0, width: self.frame.size.width, height: self.frame.size.height)
             activityIndicator.startAnimating()
             if self.image == nil {
                 self.addSubview(activityIndicator)
             }
-            
             
             APIConnect.getImage(for: url) { (image, success, error) in
                 
@@ -43,7 +43,8 @@ extension UIImageView {
                 completionHandler(true, nil)
             }
             
-        }}
+        }
+    }
 }
 
 

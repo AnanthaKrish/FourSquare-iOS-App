@@ -11,14 +11,6 @@ import Foundation
 // url builder class - cinstruct the url for network calls
 public class UrlBuilder {
     
-    // MARK: Constants
-    let BASE = "https://api.foursquare.com/"
-    let VERSION = "/v2"
-    let EXPLORE = "/venues/explore"
-    let QUERYVERSION = "20120609"
-    let PHOTOS = "/photos"
-    let VENUES = "/venues/"
-    
     // MARK: Variables
     
     // Credentials object
